@@ -26,6 +26,7 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksarqu&hide=prs&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://ksarqu.ga
 [youtube]: https://www.youtube.com/channel/UCN2xMjnyMkjCSq8VW--4XcQ
 [instagram]: https://www.instagram.com/czaro_czarek/
