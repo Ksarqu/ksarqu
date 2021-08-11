@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there, my name's Czarek AKA ksarqu[website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ksarqu.ga)
@@ -31,3 +32,6 @@
 [website]: https://ksarqu.ga
 [youtube]: https://www.youtube.com/channel/UCN2xMjnyMkjCSq8VW--4XcQ
 [instagram]: https://www.instagram.com/czaro_czarek/
+=======
+<h1> professional programista pythonowy</h1>
+>>>>>>> f96da76db5badcaac7794ca87d470eefec387ef9
