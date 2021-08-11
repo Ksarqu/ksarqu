@@ -1,4 +1,4 @@
-### Hi there, my name's Czarek AKA ksarqu[website] 👋
+### Hi there, my name's Czarek AKA ksarqu -> [website] 😀
 
 - 🌱 I’m currently trying to learning everything
 - 👯 I’m looking to upgrade my skills
