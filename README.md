@@ -1,3 +1,4 @@
+professional fullstack scratch and wordpress dev
 ### Hi there, my name's Czarek AKA ksarqu -> [website] 😀
 
 - 🌱 I’m currently trying to learning everything
