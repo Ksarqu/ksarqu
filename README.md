@@ -1,4 +1,4 @@
-![Wzium](https://img.shields.io/badge/wziuming-true-green) ![Discord](https://img.shields.io/badge/discord-czarek%233107-%237289DA?logo=discord&logoColor=white)
+![Wzium](https://img.shields.io/badge/wziuming-true-green) ![Discord](https://img.shields.io/badge/discord-czarek%238548-%237289DA?logo=discord&logoColor=white)
 
 ### Hello. 👋
 
