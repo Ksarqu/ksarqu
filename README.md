@@ -1,8 +1,8 @@
-### Hi there 👋
-
-Python
-i like Python
 ```text
+hi there 👋
+
+i like Python
+
     *
    ***
   *****
